@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="confirm_task">Confirm task</string>
+    <string name="save_task">Save task</string>
+    <string name="task_name">Task name</string>
+    <string name="important_task">Important Task</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="hide_completed">Hide completed tasks</string>
+    <string name="delete_completed_tasks">Delete completed tasks</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="created_at">Created at: %s</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="confirm_deletion">Confirm deletion</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message_delete_all_completed">Are you really want to delete all completed tasks?</string>
+</resources>
